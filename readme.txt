@@ -25,47 +25,49 @@ To embed your timeline use the button located at the post content editor (TinyMC
 `<?php echo do_shortcode('[timeline src="Your source url here"]'); ?>`
 
 **Supported languages**
-*	Afrikaans
-*	Arabic (beta)
-*	Bulgarian
-*	Catalan
-*	Czech
-*	Danish
-*	German / Deutsch
-*	Greek
-*	English
-*	Spanish
-*	Basque/ Euskara
-*	Finnish
-*	Faroese
-*	French
-*	Galician
-*	Hungarian
-*	Armenian
-*	Indonesian
-*	Icelandic
-*	Italian
-*	Hebrew (beta)
-*	Japanese
-*	Georgian
-*	Korean
-*	Latvian
-*	Dutch
-*	Norwegian
-*	Polish
-*	Brazilian Portuguese
-*	Portuguese
-*	Russian
-*	Slovak
-*	Slovenian
-*	Serbian (Cyrillic)
-*	Serbian (Latin)
-*	Swedish
-*	Tamil
-*	Tagalog
-*	Turkish
-*	Chinese
-*	Taiwanese
+
+* Afrikaans
+* Arabic (beta)
+* Bulgarian
+* Catalan
+* Czech
+* Danish
+* German / Deutsch
+* Greek
+* English
+* Spanish
+* Basque/ Euskara
+* Finnish
+* Faroese
+* French
+* Galician
+* Hungarian
+* Armenian
+* Indonesian
+* Icelandic
+* Italian
+* Hebrew (beta)
+* Japanese
+* Georgian
+* Korean
+* Latvian
+* Dutch
+* Norwegian
+* Polish
+* Brazilian Portuguese
+* Portuguese
+* Russian
+* Slovak
+* Slovenian
+* Serbian (Cyrillic)
+* Serbian (Latin)
+* Swedish
+* Tamil
+* Tagalog
+* Turkish
+* Chinese
+* Taiwanese
+
 
 == Installation ==
 
