@@ -83,11 +83,13 @@ Alternatively, you can use the TinyMCE button to create your own shortcode as we
 
 
 == Changelog ==
+
 = 2.28.1 =
 * Modified to match current TimelineJS version number
 
 = 1.0.0 =
 * First stable release
+
 
 == Shortcode options ==
 
