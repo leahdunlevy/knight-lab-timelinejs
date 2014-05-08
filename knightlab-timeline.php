@@ -176,6 +176,7 @@ function kl_timeline_tinymce() {
                                         <option value="toner-labels">Stamen Maps: Toner Labels</option>
                                         <option value="watercolor">Stamen Maps: Watercolor</option>
                                         <option value="sterrain">Stamen Maps: Terrain</option>
+                                        <option value="osm">OpenStreetMap</option>
                                         <option value="SATELLITE">Google Maps: Satellite</option>
                                         <option value="ROADMAP">Google Maps: Roadmap</option>
                                         <option value="TERRAIN">Google Maps: Terrain</option>
@@ -197,6 +198,7 @@ function kl_timeline_tinymce() {
                                         <option value="bg">Bulgarian</option>
                                         <option value="ca">Catalan</option>
                                         <option value="zh-cn">Chinese</option>
+                                        <option value="hr">Croatian / Hrvatski</option>
                                         <option value="cz">Czech</option>
                                         <option value="da">Danish</option>
                                         <option value="nl">Dutch</option>
@@ -242,6 +244,7 @@ function kl_timeline_tinymce() {
                                         <option value="te">Telugu</option>
                                         <option value="th">Thai</option>
                                         <option value="tr">Turkish</option>
+                                        <option value="uk">Ukrainian</option>
                                     </select><br/>
                                 </td>
                             </tr>
